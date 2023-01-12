@@ -4,7 +4,7 @@ const fn= () => {
     console.log(b)
 } 
 fn()
-const clicleando= () => {
+const clicleado= () => {
     let a=  " chanchita feliz"
     console.log(a)
 } 
